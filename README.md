@@ -1,0 +1,1 @@
+Usage : Drag and drop your batch file over this script. Don't worry if VirusTotal say the file that  you generated is a Trojan, it is false positive, I don't know why this happens, it is probably bug   because of using IEXPRESS, if you don't trust check code of the file                                 WARNING! SOME COMMANDS FROM BATCH WON'T WORK AS EXE    
